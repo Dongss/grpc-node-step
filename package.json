@@ -1,0 +1,23 @@
+{
+  "name": "grpc-node-step",
+  "version": "1.0.0",
+  "description": "GRPC nodejs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["grpc", "nodejs", "example", "demo"],
+  "author": {
+    "name": "Shaoshuai Dong",
+    "email": "dongsoso@hotmail.com",
+    "url": "https://github.com/Dongss"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "google-protobuf": "^3.5.0",
+    "grpc": "^1.10.1"
+  },
+  "devDependencies": {
+    "grpc-tools": "^1.6.6"
+  }
+}
